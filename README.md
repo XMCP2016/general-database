@@ -1,0 +1,2 @@
+# general-database
+study
